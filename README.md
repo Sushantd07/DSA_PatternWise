@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
