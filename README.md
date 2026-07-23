@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
