@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0410-split-array-largest-sum) |
 ## Greedy
