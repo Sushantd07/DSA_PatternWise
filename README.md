@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0070-climbing-stairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3536-maximum-product-of-two-digits) |
 ## Memoization
 |  |
 | ------- |
