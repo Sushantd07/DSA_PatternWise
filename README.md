@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0494-target-sum) |
 | [0875-koko-eating-bananas](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0905-sort-array-by-parity) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0905-sort-array-by-parity) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
