@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0074-search-a-2d-matrix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0905-sort-array-by-parity) |
 ## Knapsack Problem
