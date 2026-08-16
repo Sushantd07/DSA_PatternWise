@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0494-target-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0905-sort-array-by-parity) |
 ## Knapsack Problem
 |  |
