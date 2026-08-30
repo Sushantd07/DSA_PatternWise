@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0410-split-array-largest-sum) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0875-koko-eating-bananas) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0905-sort-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3536-maximum-product-of-two-digits) |
@@ -124,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3536-maximum-product-of-two-digits) |
 ## Memoization
 |  |
@@ -152,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
