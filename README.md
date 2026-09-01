@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0494-target-sum) |
 | [0875-koko-eating-bananas](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0905-sort-array-by-parity) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0543-diameter-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0543-diameter-of-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
