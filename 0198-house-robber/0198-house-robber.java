@@ -1,34 +1,31 @@
 class Solution {
 
-    public int fun(int[] arr,int n,int idx,int free,int[][] dp){
-        if(idx==n) return 0;
-
-        if(free==0){
-            return fun(arr,n,idx+1,1,dp);
+    int solve(int[] arr,int idx,int[] dp){
+        if(idx==0){
+            return arr[0];
+        }
+        if(idx<0){
+            return 0;
         }
 
-        if(dp[idx][free] != -1){
-            return dp[idx][free];
+        if(dp[idx]!=-1){
+          return dp[idx];
         }
 
-        int c1 = arr[idx] + fun(arr,n,idx+1,0,dp);
-        int c2 = fun(arr,n,idx+1,1,dp);
+        int pick = arr[idx] + solve(arr,idx-2,dp);
+        int notPick = solve(arr,idx-1,dp);
 
-       int ans = Math.max(c1,c2);
+        dp[idx] = Math.max(pick,notPick);
 
-       dp[idx][free] = ans;
-
-       return ans;
+        return dp[idx];
     }
+
     public int rob(int[] nums) {
         int n = nums.length;
+        int[] dp = new int[n];
+        Arrays.fill(dp,-1);
 
-        int[][] dp = new int[nums.length][2];
-
-        for(int i=0;i<nums.length;i++){
-            Arrays.fill(dp[i],-1);
-        }
-
-        return fun(nums,n,0,1,dp);
+return solve(nums,n-1,dp);
+        
     }
 }
