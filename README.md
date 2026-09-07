@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0152-maximum-product-subarray) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3536-maximum-product-of-two-digits) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
