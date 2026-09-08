@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Memoization
 |  |
