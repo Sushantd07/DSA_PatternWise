@@ -2,29 +2,36 @@ class Solution {
     public int totalNumbers(int[] digits) {
 
         HashSet<Integer> set = new HashSet<>();
-
-       int count=0;
+        int[] freq = new int[10];
 
         for(int i=0;i<digits.length;i++){
-            for(int j=0;j<digits.length;j++){
-                for(int k=0;k<digits.length;k++){
+            freq[digits[i]]++;
+        }
 
-                    if(i==j || j==k || i==k){
-                        continue;
-                    }
-                   if(digits[i] == 0){
+
+
+        for(int i=1;i<10;i++){
+            if(freq[i] == 0) continue;
+            freq[i]--;
+            for(int j=0;j<10;j++){
+
+                if(freq[j] == 0) continue;
+            freq[j]--;
+                for(int k=0;k<10;k++){
+                    if(freq[k] == 0) continue;
+                     
+                if(k%2 != 0){
                     continue;
-                   }
+                }
 
-                   if(digits[k] %2 != 0){
-                    continue;
-                   }
-
-                   int num = digits[i] *100 + digits[j] *10 + digits[k];
+                   int num = i*100 + j*10 + k;
 
                    set.add(num);
+                  
                 }
+                freq[j]++;
             }
+            freq[i]++;
         }
 
         return set.size();
