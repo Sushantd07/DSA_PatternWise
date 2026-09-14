@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0494-target-sum) |
 | [0875-koko-eating-bananas](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0905-sort-array-by-parity) |
+| [0931-minimum-falling-path-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3483-unique-3-digit-even-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0494-target-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0931-minimum-falling-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0931-minimum-falling-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
