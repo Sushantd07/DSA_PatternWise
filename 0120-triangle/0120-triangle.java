@@ -21,10 +21,20 @@ class Solution {
 
         int[][] dp = new int[n][n];
 
-        for (int[] row : dp) {
-            Arrays.fill(row,Integer.MAX_VALUE);
+        for(int j=0;j<n;j++){
+            dp[n-1][j] = triangle.get(n-1).get(j);
         }
 
-        return solve(0, 0, triangle, dp);
+        for(int i=n-2;i>=0;i--){
+            for(int j=i;j>=0;j--){
+
+        int down = triangle.get(i).get(j) + dp[i+1][j];
+        int dia = triangle.get(i).get(j) + dp[i+1][j+1];
+
+        dp[i][j] = Math.min(down,dia);
+            }
+        
+        }
+        return dp[0][0];
     }
 }
