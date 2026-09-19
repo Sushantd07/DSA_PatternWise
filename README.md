@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sushantd07/DSA_PatternWise/tree/master/0268-missing-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sushantd07/DSA_PatternWise/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sushantd07/DSA_PatternWise/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
